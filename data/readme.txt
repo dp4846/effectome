@@ -1,0 +1,1 @@
+connections.csv and classifications.csv from https://codex.flywire.ai/api/download go in this folder
